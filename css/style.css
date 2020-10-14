@@ -4,7 +4,8 @@ h1 {
   text-align: center;
 }
 body {
-  background-image: url("https://wallup.net/wp-content/uploads/2016/01/22255-TV-Breaking_Bad-desert-RV.jpg");
+  background-image: url("../img/cool.jpg");
+  background-color: lightblue;
 }
 /* About */
 .ap {
